@@ -1,0 +1,44 @@
+body {
+    font-family: arial;
+    margin: 5px;
+}
+
+.fecha{
+    margin: 0 auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 40%;
+    border-collapse: collapse;
+}
+
+.fecha td, .fecha th {
+    font-size: 1em;
+    border: 1px solid #bc6b21;
+    padding: 3px 7px 2px 7px;
+}
+
+.fecha th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #dd8537;
+    color: #ffffff;
+}
+
+.fecha tr.alt td {
+    color: #000000;
+    background-color: #dd8537;
+}
+
+caption {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #dd8537;
+    color: #ffffff;
+    border: 1px solid #bc6b21;
+    padding: 3px 7px 2px 7px;
+}
+#selectfechas {text-align:center ; }
+#Ultra {text-align:center ; }
